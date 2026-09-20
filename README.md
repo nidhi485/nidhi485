@@ -1,16 +1,4 @@
- Srinidhi Kunati
-
-B.Tech CSE Graduate 2026 | Aspiring Full Stack Developer | Software Engineer
-
-I’m a Computer Science and Engineering graduate interested in building practical software solutions using Java, JavaScript, Python, React.js, Spring Boot, SQL, and AI/ML technologies.
-
-🎓 B.Tech Computer Science & Engineering — 2026
-💻 Aspiring Full Stack Developer
-☕ Java & Spring Boot
-⚛️ React.js & JavaScript
-🤖 AI & Machine Learning Enthusiast
-🗄️ SQL & MongoDB
-💼 Open to Entry-Level Software & Full Stack Opportunities
+Hi I'm Srinidhi Kunati
 
 ## 🧑‍💻 About Me
 
@@ -34,32 +22,12 @@ I’m a Computer Science and Engineering graduate interested in building practic
 
 🤝 Interested in contributing to real-world software projects and collaborative development
 
----
-
 ## 🛠️ Technical Skills
 
-### Programming
-
 `Java` `Python` `JavaScript` `SQL`
-
-### Web Development
-
 `HTML` `CSS` `Bootstrap` `React.js`
-
-### Backend & APIs
-
 `Spring Boot` `Node.js`
-
-### Database
-
 `SQL` `MongoDB`
-
-### AI & Machine Learning
-
-`Python` `Scikit-Learn` `TensorFlow` `Machine Learning`
-
-### Tools & Development
-
 `Git` `GitHub` `Django` `Plotly`
 
  🚀 Featured Project
@@ -111,12 +79,6 @@ Add your project repository link here after uploading it to GitHub.
 🧠 Data Structures & Algorithms
 
 🤖 Artificial Intelligence & Machine Learning
-
-
-# 🎯 Career Objective
-
-I’m looking for an opportunity to begin my career as a **Full Stack Developer / Software Engineer**, where I can apply my technical knowledge, contribute to real-world projects, learn from experienced professionals, and continuously grow as a software developer.
-
 
 # 💼 Open To
 
